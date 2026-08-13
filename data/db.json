@@ -1,0 +1,18 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pepperoni",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=700&q=80",
+      "description": "Classic pepperoni with mozzarella cheese."
+    },
+    {
+      "id": 2,
+      "name": "Cheese Lover",
+      "price": 1199,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=700&q=80",
+      "description": "Extra mozzarella, cheddar and creamy cheese."
+    }
+  ]
+}
